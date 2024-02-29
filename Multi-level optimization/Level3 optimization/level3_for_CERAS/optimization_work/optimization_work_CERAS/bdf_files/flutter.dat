@@ -1,0 +1,19 @@
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+EIGRL    3                       15      0                       MASS   
+$ A whole-span model is defined
+AERO     0               3.9698  1.2250  
+MKAERO1  0.64    
+         0.0010  0.0100  0.1000  0.3000  0.5000  1.0000  
+$ DENS_RATE
+FLFACT   1       1.00    
+$
+$ MACH
+FLFACT   2       0.64    
+$
+$ Velocity
+FLFACT   3       160.00  180.00  200.00  220.00  240.00  
+$
+$       SID     METH    DENS_id MACH_id FREQ_id IMETH   NVALUE 
+FLUTTER  3       PK      1       2       3               15     
+PARAM    LMODES  15     
+PARAM    OPPHIPA 1      

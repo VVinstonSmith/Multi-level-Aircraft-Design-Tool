@@ -1,0 +1,1584 @@
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DESVAR  ID      LABEL   XINIT   XLB     XUB     DELXV
+$DESVAR   1       PSHEL1  1.500-3 1.000-3 0.1000  
+$DESVAR   2       PSHEL2  1.500-3 1.000-3 0.1000  
+$DESVAR   3       PSHEL3  1.500-3 1.000-3 0.1000  
+$DESVAR   4       PSHEL4  1.667-3 1.000-3 0.1000  
+$DESVAR   5       PSHEL5  1.690-3 1.000-3 0.1000  
+$DESVAR   6       PSHEL6  1.542-3 1.000-3 0.1000  
+$DESVAR   7       PSHEL7  1.923-3 1.000-3 0.1000  
+$DESVAR   8       PSHEL8  1.963-3 1.000-3 0.1000  
+$DESVAR   9       PSHEL9  1.608-3 1.000-3 0.1000  
+$DESVAR   10      PSHEL10 2.203-3 1.000-3 0.1000  
+$DESVAR   11      PSHEL11 2.260-3 1.000-3 0.1000  
+$DESVAR   12      PSHEL12 1.782-3 1.000-3 0.1000  
+$DESVAR   13      PSHEL13 2.488-3 1.000-3 0.1000  
+$DESVAR   14      PSHEL14 2.567-3 1.000-3 0.1000  
+$DESVAR   15      PSHEL15 1.991-3 1.000-3 0.1000  
+$DESVAR   16      PSHEL16 2.788-3 1.000-3 0.1000  
+$DESVAR   17      PSHEL17 2.884-3 1.000-3 0.1000  
+$DESVAR   18      PSHEL18 2.256-3 1.000-3 0.1000  
+$DESVAR   19      PSHEL19 3.096-3 1.000-3 0.1000  
+$DESVAR   20      PSHEL20 3.216-3 1.000-3 0.1000  
+$DESVAR   21      PSHEL21 2.573-3 1.000-3 0.1000  
+$DESVAR   22      PSHEL22 3.411-3 1.000-3 0.1000  
+$DESVAR   23      PSHEL23 3.551-3 1.000-3 0.1000  
+$DESVAR   24      PSHEL24 2.914-3 1.000-3 0.1000  
+$DESVAR   25      PSHEL25 3.733-3 1.000-3 0.1000  
+$DESVAR   26      PSHEL26 3.894-3 1.000-3 0.1000  
+$DESVAR   27      PSHEL27 3.300-3 1.000-3 0.1000  
+$DESVAR   28      PSHEL28 4.058-3 1.000-3 0.1000  
+$DESVAR   29      PSHEL29 4.240-3 1.000-3 0.1000  
+$DESVAR   30      PSHEL30 3.700-3 1.000-3 0.1000  
+$DESVAR   31      PSHEL31 4.386-3 1.000-3 0.1000  
+$DESVAR   32      PSHEL32 4.587-3 1.000-3 0.1000  
+$DESVAR   33      PSHEL33 4.116-3 1.000-3 0.1000  
+$DESVAR   34      PSHEL34 4.714-3 1.000-3 0.1000  
+$DESVAR   35      PSHEL35 4.934-3 1.000-3 0.1000  
+$DESVAR   36      PSHEL36 4.540-3 1.000-3 0.1000  
+$DESVAR   37      PSHEL37 5.042-3 1.000-3 0.1000  
+$DESVAR   38      PSHEL38 5.277-3 1.000-3 0.1000  
+$DESVAR   39      PSHEL39 4.965-3 1.000-3 0.1000  
+$DESVAR   40      PSHEL40 5.365-3 1.000-3 0.1000  
+$DESVAR   41      PSHEL41 5.618-3 1.000-3 0.1000  
+$DESVAR   42      PSHEL42 5.381-3 1.000-3 0.1000  
+$DESVAR   43      PSHEL43 5.685-3 1.000-3 0.1000  
+$DESVAR   44      PSHEL44 5.948-3 1.000-3 0.1000  
+$DESVAR   45      PSHEL45 5.781-3 1.000-3 0.1000  
+$DESVAR   46      PSHEL46 5.997-3 1.000-3 0.1000  
+$DESVAR   47      PSHEL47 6.272-3 1.000-3 0.1000  
+$DESVAR   48      PSHEL48 6.166-3 1.000-3 0.1000  
+$DESVAR   49      PSHEL49 6.301-3 1.000-3 0.1000  
+$DESVAR   50      PSHEL50 6.585-3 1.000-3 0.1000  
+$DESVAR   51      PSHEL51 6.507-3 1.000-3 0.1000  
+$DESVAR   52      PSHEL52 6.596-3 1.000-3 0.1000  
+$DESVAR   53      PSHEL53 6.879-3 1.000-3 0.1000  
+$DESVAR   54      PSHEL54 6.826-3 1.000-3 0.1000  
+$DESVAR   55      PSHEL55 6.874-3 1.000-3 0.1000  
+$DESVAR   56      PSHEL56 7.161-3 1.000-3 0.1000  
+$DESVAR   57      PSHEL57 7.096-3 1.000-3 0.1000  
+$DESVAR   58      PSHEL58 7.143-3 1.000-3 0.1000  
+$DESVAR   59      PSHEL59 7.408-3 1.000-3 0.1000  
+$DESVAR   60      PSHEL60 7.323-3 1.000-3 0.1000  
+$DESVAR   61      PSHEL61 7.493-3 1.000-3 0.1000  
+$DESVAR   62      PSHEL62 7.704-3 1.000-3 0.1000  
+$DESVAR   63      PSHEL63 7.576-3 1.000-3 0.1000  
+$DESVAR   64      PSHEL64 7.864-3 1.000-3 0.1000  
+$DESVAR   65      PSHEL65 7.974-3 1.000-3 0.1000  
+$DESVAR   66      PSHEL66 7.737-3 1.000-3 0.1000  
+$DESVAR   67      PSHEL67 8.071-3 1.000-3 0.1000  
+$DESVAR   68      PSHEL68 8.101-3 1.000-3 0.1000  
+$DESVAR   69      PSHEL69 7.699-3 1.000-3 0.1000  
+$DESVAR   70      PSHEL70 8.077-3 1.000-3 0.1000  
+$DESVAR   71      PSHEL71 8.060-3 1.000-3 0.1000  
+$DESVAR   72      PSHEL72 7.437-3 1.000-3 0.1000  
+$DESVAR   73      PSHEL73 7.843-3 1.000-3 0.1000  
+$DESVAR   74      PSHEL74 7.824-3 1.000-3 0.1000  
+$DESVAR   75      PSHEL75 6.932-3 1.000-3 0.1000  
+$DESVAR   76      PSHEL76 7.382-3 1.000-3 0.1000  
+$DESVAR   77      PSHEL77 7.382-3 1.000-3 0.1000  
+$DESVAR   78      PSHEL78 6.215-3 1.000-3 0.1000  
+$DESVAR   79      PSHEL79 6.729-3 1.000-3 0.1000  
+$DESVAR   80      PSHEL80 6.729-3 1.000-3 0.1000  
+$DESVAR   81      PSHEL81 5.313-3 1.000-3 0.1000  
+$
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DEQATN  EQID            EQUATION
+DEQATN   1       I1bar(A)=A**2/48.
+$
+DEQATN   2       I2bar(A)=A**2/3.
+$
+DEQATN   3       Jbar(A)=A**2/3.
+$
+DEQATN   4       I1str(A)=A**2/12.
+$
+DEQATN   5       I2str(A)=A**2/12.
+$
+DEQATN   6       Jstr(A)=A**2/12.
+$
+DEQATN   7       Astr1(t)=0.05001*t
+$
+DEQATN   8       I1str1(t)=(0.05001*t)**2/12.
+$
+DEQATN   9       I2str1(t)=(0.05001*t)**2/12.
+$
+DEQATN   10      Jstr1(t)=(0.05001*t)**2/12.
+$
+DEQATN   11      Astr2(t)=0.057099*t
+$
+DEQATN   12      I1str2(t)=(0.057099*t)**2/12.
+$
+DEQATN   13      I2str2(t)=(0.057099*t)**2/12.
+$
+DEQATN   14      Jstr2(t)=(0.057099*t)**2/12.
+$
+DEQATN   15      Astr3(t)=0.064187*t
+$
+DEQATN   16      I1str3(t)=(0.064187*t)**2/12.
+$
+DEQATN   17      I2str3(t)=(0.064187*t)**2/12.
+$
+DEQATN   18      Jstr3(t)=(0.064187*t)**2/12.
+$
+DEQATN   19      Astr4(t)=0.071276*t
+$
+DEQATN   20      I1str4(t)=(0.071276*t)**2/12.
+$
+DEQATN   21      I2str4(t)=(0.071276*t)**2/12.
+$
+DEQATN   22      Jstr4(t)=(0.071276*t)**2/12.
+$
+DEQATN   23      Astr5(t)=0.078364*t
+$
+DEQATN   24      I1str5(t)=(0.078364*t)**2/12.
+$
+DEQATN   25      I2str5(t)=(0.078364*t)**2/12.
+$
+DEQATN   26      Jstr5(t)=(0.078364*t)**2/12.
+$
+DEQATN   27      Astr6(t)=0.085452*t
+$
+DEQATN   28      I1str6(t)=(0.085452*t)**2/12.
+$
+DEQATN   29      I2str6(t)=(0.085452*t)**2/12.
+$
+DEQATN   30      Jstr6(t)=(0.085452*t)**2/12.
+$
+DEQATN   31      Astr7(t)=0.092541*t
+$
+DEQATN   32      I1str7(t)=(0.092541*t)**2/12.
+$
+DEQATN   33      I2str7(t)=(0.092541*t)**2/12.
+$
+DEQATN   34      Jstr7(t)=(0.092541*t)**2/12.
+$
+DEQATN   35      Astr8(t)=0.099629*t
+$
+DEQATN   36      I1str8(t)=(0.099629*t)**2/12.
+$
+DEQATN   37      I2str8(t)=(0.099629*t)**2/12.
+$
+DEQATN   38      Jstr8(t)=(0.099629*t)**2/12.
+$
+DEQATN   39      Astr9(t)=0.10672*t
+$
+DEQATN   40      I1str9(t)=(0.10672*t)**2/12.
+$
+DEQATN   41      I2str9(t)=(0.10672*t)**2/12.
+$
+DEQATN   42      Jstr9(t)=(0.10672*t)**2/12.
+$
+DEQATN   43      Astr10(t)=0.11381*t
+$
+DEQATN   44      I1str10(t)=(0.11381*t)**2/12.
+$
+DEQATN   45      I2str10(t)=(0.11381*t)**2/12.
+$
+DEQATN   46      Jstr10(t)=(0.11381*t)**2/12.
+$
+DEQATN   47      Astr11(t)=0.12089*t
+$
+DEQATN   48      I1str11(t)=(0.12089*t)**2/12.
+$
+DEQATN   49      I2str11(t)=(0.12089*t)**2/12.
+$
+DEQATN   50      Jstr11(t)=(0.12089*t)**2/12.
+$
+DEQATN   51      Astr12(t)=0.12798*t
+$
+DEQATN   52      I1str12(t)=(0.12798*t)**2/12.
+$
+DEQATN   53      I2str12(t)=(0.12798*t)**2/12.
+$
+DEQATN   54      Jstr12(t)=(0.12798*t)**2/12.
+$
+DEQATN   55      Astr13(t)=0.13507*t
+$
+DEQATN   56      I1str13(t)=(0.13507*t)**2/12.
+$
+DEQATN   57      I2str13(t)=(0.13507*t)**2/12.
+$
+DEQATN   58      Jstr13(t)=(0.13507*t)**2/12.
+$
+DEQATN   59      Astr14(t)=0.14216*t
+$
+DEQATN   60      I1str14(t)=(0.14216*t)**2/12.
+$
+DEQATN   61      I2str14(t)=(0.14216*t)**2/12.
+$
+DEQATN   62      Jstr14(t)=(0.14216*t)**2/12.
+$
+DEQATN   63      Astr15(t)=0.14925*t
+$
+DEQATN   64      I1str15(t)=(0.14925*t)**2/12.
+$
+DEQATN   65      I2str15(t)=(0.14925*t)**2/12.
+$
+DEQATN   66      Jstr15(t)=(0.14925*t)**2/12.
+$
+DEQATN   67      Astr16(t)=0.15634*t
+$
+DEQATN   68      I1str16(t)=(0.15634*t)**2/12.
+$
+DEQATN   69      I2str16(t)=(0.15634*t)**2/12.
+$
+DEQATN   70      Jstr16(t)=(0.15634*t)**2/12.
+$
+DEQATN   71      Astr17(t)=0.16342*t
+$
+DEQATN   72      I1str17(t)=(0.16342*t)**2/12.
+$
+DEQATN   73      I2str17(t)=(0.16342*t)**2/12.
+$
+DEQATN   74      Jstr17(t)=(0.16342*t)**2/12.
+$
+DEQATN   75      Astr18(t)=0.17051*t
+$
+DEQATN   76      I1str18(t)=(0.17051*t)**2/12.
+$
+DEQATN   77      I2str18(t)=(0.17051*t)**2/12.
+$
+DEQATN   78      Jstr18(t)=(0.17051*t)**2/12.
+$
+DEQATN   79      Astr19(t)=0.1776*t
+$
+DEQATN   80      I1str19(t)=(0.1776*t)**2/12.
+$
+DEQATN   81      I2str19(t)=(0.1776*t)**2/12.
+$
+DEQATN   82      Jstr19(t)=(0.1776*t)**2/12.
+$
+DEQATN   83      Astr20(t)=0.18469*t
+$
+DEQATN   84      I1str20(t)=(0.18469*t)**2/12.
+$
+DEQATN   85      I2str20(t)=(0.18469*t)**2/12.
+$
+DEQATN   86      Jstr20(t)=(0.18469*t)**2/12.
+$
+DEQATN   87      Astr21(t)=0.19787*t
+$
+DEQATN   88      I1str21(t)=(0.19787*t)**2/12.
+$
+DEQATN   89      I2str21(t)=(0.19787*t)**2/12.
+$
+DEQATN   90      Jstr21(t)=(0.19787*t)**2/12.
+$
+DEQATN   91      Astr22(t)=0.21944*t
+$
+DEQATN   92      I1str22(t)=(0.21944*t)**2/12.
+$
+DEQATN   93      I2str22(t)=(0.21944*t)**2/12.
+$
+DEQATN   94      Jstr22(t)=(0.21944*t)**2/12.
+$
+DEQATN   95      Astr23(t)=0.24313*t
+$
+DEQATN   96      I1str23(t)=(0.24313*t)**2/12.
+$
+DEQATN   97      I2str23(t)=(0.24313*t)**2/12.
+$
+DEQATN   98      Jstr23(t)=(0.24313*t)**2/12.
+$
+DEQATN   99      Astr24(t)=0.26681*t
+$
+DEQATN   100     I1str24(t)=(0.26681*t)**2/12.
+$
+DEQATN   101     I2str24(t)=(0.26681*t)**2/12.
+$
+DEQATN   102     Jstr24(t)=(0.26681*t)**2/12.
+$
+DEQATN   103     Astr25(t)=0.29049*t
+$
+DEQATN   104     I1str25(t)=(0.29049*t)**2/12.
+$
+DEQATN   105     I2str25(t)=(0.29049*t)**2/12.
+$
+DEQATN   106     Jstr25(t)=(0.29049*t)**2/12.
+$
+DEQATN   107     Astr26(t)=0.32332*t
+$
+DEQATN   108     I1str26(t)=(0.32332*t)**2/12.
+$
+DEQATN   109     I2str26(t)=(0.32332*t)**2/12.
+$
+DEQATN   110     Jstr26(t)=(0.32332*t)**2/12.
+$
+DEQATN   111     Astr27(t)=0.32332*t
+$
+DEQATN   112     I1str27(t)=(0.32332*t)**2/12.
+$
+DEQATN   113     I2str27(t)=(0.32332*t)**2/12.
+$
+DEQATN   114     Jstr27(t)=(0.32332*t)**2/12.
+$
+DEQATN   115     F(TIP,ROOT) = TIP - ROOT
+$
+DEQATN   116     F(A,B,C,D)=0.5*(A+B)-0.5*(C+D)
+$
+DEQATN   117     F(A,B) = -B/A
+$
+DEQATN   118     F(B) = -B/0.095524
+$
+DEQATN   119     F(A) = (A-0.03)/0.1
+$
+$
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DVPREL1 ID      TYPE    PID     FID     PMIN    PMAX    C0      XXXX    +DVPREL1
+$        DVID1   COEF1   DVID2   COEF2   DVID3   COEF3   ....
+DVPREL1  101     PSHELL  401     4       1.000-3 0.1000  0.0     
+         1       1.0000  
+DVPREL1  102     PSHELL  402     4       1.000-3 0.1000  0.0     
+         2       1.0000  
+DVPREL1  103     PSHELL  403     4       1.000-3 0.1000  0.0     
+         3       1.0000  
+DVPREL1  104     PSHELL  404     4       1.000-3 0.1000  0.0     
+         4       1.0000  
+DVPREL1  105     PSHELL  405     4       1.000-3 0.1000  0.0     
+         5       1.0000  
+DVPREL1  106     PSHELL  406     4       1.000-3 0.1000  0.0     
+         6       1.0000  
+DVPREL1  107     PSHELL  407     4       1.000-3 0.1000  0.0     
+         7       1.0000  
+DVPREL1  108     PSHELL  408     4       1.000-3 0.1000  0.0     
+         8       1.0000  
+DVPREL1  109     PSHELL  409     4       1.000-3 0.1000  0.0     
+         9       1.0000  
+DVPREL1  110     PSHELL  410     4       1.000-3 0.1000  0.0     
+         10      1.0000  
+DVPREL1  111     PSHELL  411     4       1.000-3 0.1000  0.0     
+         11      1.0000  
+DVPREL1  112     PSHELL  412     4       1.000-3 0.1000  0.0     
+         12      1.0000  
+DVPREL1  113     PSHELL  413     4       1.000-3 0.1000  0.0     
+         13      1.0000  
+DVPREL1  114     PSHELL  414     4       1.000-3 0.1000  0.0     
+         14      1.0000  
+DVPREL1  115     PSHELL  415     4       1.000-3 0.1000  0.0     
+         15      1.0000  
+DVPREL1  116     PSHELL  416     4       1.000-3 0.1000  0.0     
+         16      1.0000  
+DVPREL1  117     PSHELL  417     4       1.000-3 0.1000  0.0     
+         17      1.0000  
+DVPREL1  118     PSHELL  418     4       1.000-3 0.1000  0.0     
+         18      1.0000  
+DVPREL1  119     PSHELL  419     4       1.000-3 0.1000  0.0     
+         19      1.0000  
+DVPREL1  120     PSHELL  420     4       1.000-3 0.1000  0.0     
+         20      1.0000  
+DVPREL1  121     PSHELL  421     4       1.000-3 0.1000  0.0     
+         21      1.0000  
+DVPREL1  122     PSHELL  422     4       1.000-3 0.1000  0.0     
+         22      1.0000  
+DVPREL1  123     PSHELL  423     4       1.000-3 0.1000  0.0     
+         23      1.0000  
+DVPREL1  124     PSHELL  424     4       1.000-3 0.1000  0.0     
+         24      1.0000  
+DVPREL1  125     PSHELL  425     4       1.000-3 0.1000  0.0     
+         25      1.0000  
+DVPREL1  126     PSHELL  426     4       1.000-3 0.1000  0.0     
+         26      1.0000  
+DVPREL1  127     PSHELL  427     4       1.000-3 0.1000  0.0     
+         27      1.0000  
+DVPREL1  128     PSHELL  428     4       1.000-3 0.1000  0.0     
+         28      1.0000  
+DVPREL1  129     PSHELL  429     4       1.000-3 0.1000  0.0     
+         29      1.0000  
+DVPREL1  130     PSHELL  430     4       1.000-3 0.1000  0.0     
+         30      1.0000  
+DVPREL1  131     PSHELL  431     4       1.000-3 0.1000  0.0     
+         31      1.0000  
+DVPREL1  132     PSHELL  432     4       1.000-3 0.1000  0.0     
+         32      1.0000  
+DVPREL1  133     PSHELL  433     4       1.000-3 0.1000  0.0     
+         33      1.0000  
+DVPREL1  134     PSHELL  434     4       1.000-3 0.1000  0.0     
+         34      1.0000  
+DVPREL1  135     PSHELL  435     4       1.000-3 0.1000  0.0     
+         35      1.0000  
+DVPREL1  136     PSHELL  436     4       1.000-3 0.1000  0.0     
+         36      1.0000  
+DVPREL1  137     PSHELL  437     4       1.000-3 0.1000  0.0     
+         37      1.0000  
+DVPREL1  138     PSHELL  438     4       1.000-3 0.1000  0.0     
+         38      1.0000  
+DVPREL1  139     PSHELL  439     4       1.000-3 0.1000  0.0     
+         39      1.0000  
+DVPREL1  140     PSHELL  440     4       1.000-3 0.1000  0.0     
+         40      1.0000  
+DVPREL1  141     PSHELL  441     4       1.000-3 0.1000  0.0     
+         41      1.0000  
+DVPREL1  142     PSHELL  442     4       1.000-3 0.1000  0.0     
+         42      1.0000  
+DVPREL1  143     PSHELL  443     4       1.000-3 0.1000  0.0     
+         43      1.0000  
+DVPREL1  144     PSHELL  444     4       1.000-3 0.1000  0.0     
+         44      1.0000  
+DVPREL1  145     PSHELL  445     4       1.000-3 0.1000  0.0     
+         45      1.0000  
+DVPREL1  146     PSHELL  446     4       1.000-3 0.1000  0.0     
+         46      1.0000  
+DVPREL1  147     PSHELL  447     4       1.000-3 0.1000  0.0     
+         47      1.0000  
+DVPREL1  148     PSHELL  448     4       1.000-3 0.1000  0.0     
+         48      1.0000  
+DVPREL1  149     PSHELL  449     4       1.000-3 0.1000  0.0     
+         49      1.0000  
+DVPREL1  150     PSHELL  450     4       1.000-3 0.1000  0.0     
+         50      1.0000  
+DVPREL1  151     PSHELL  451     4       1.000-3 0.1000  0.0     
+         51      1.0000  
+DVPREL1  152     PSHELL  452     4       1.000-3 0.1000  0.0     
+         52      1.0000  
+DVPREL1  153     PSHELL  453     4       1.000-3 0.1000  0.0     
+         53      1.0000  
+DVPREL1  154     PSHELL  454     4       1.000-3 0.1000  0.0     
+         54      1.0000  
+DVPREL1  155     PSHELL  455     4       1.000-3 0.1000  0.0     
+         55      1.0000  
+DVPREL1  156     PSHELL  456     4       1.000-3 0.1000  0.0     
+         56      1.0000  
+DVPREL1  157     PSHELL  457     4       1.000-3 0.1000  0.0     
+         57      1.0000  
+DVPREL1  158     PSHELL  458     4       1.000-3 0.1000  0.0     
+         58      1.0000  
+DVPREL1  159     PSHELL  459     4       1.000-3 0.1000  0.0     
+         59      1.0000  
+DVPREL1  160     PSHELL  460     4       1.000-3 0.1000  0.0     
+         60      1.0000  
+DVPREL1  161     PSHELL  461     4       1.000-3 0.1000  0.0     
+         61      1.0000  
+DVPREL1  162     PSHELL  462     4       1.000-3 0.1000  0.0     
+         62      1.0000  
+DVPREL1  163     PSHELL  463     4       1.000-3 0.1000  0.0     
+         63      1.0000  
+DVPREL1  164     PSHELL  464     4       1.000-3 0.1000  0.0     
+         64      1.0000  
+DVPREL1  165     PSHELL  465     4       1.000-3 0.1000  0.0     
+         65      1.0000  
+DVPREL1  166     PSHELL  466     4       1.000-3 0.1000  0.0     
+         66      1.0000  
+DVPREL1  167     PSHELL  467     4       1.000-3 0.1000  0.0     
+         67      1.0000  
+DVPREL1  168     PSHELL  468     4       1.000-3 0.1000  0.0     
+         68      1.0000  
+DVPREL1  169     PSHELL  469     4       1.000-3 0.1000  0.0     
+         69      1.0000  
+DVPREL1  170     PSHELL  470     4       1.000-3 0.1000  0.0     
+         70      1.0000  
+DVPREL1  171     PSHELL  471     4       1.000-3 0.1000  0.0     
+         71      1.0000  
+DVPREL1  172     PSHELL  472     4       1.000-3 0.1000  0.0     
+         72      1.0000  
+DVPREL1  173     PSHELL  473     4       1.000-3 0.1000  0.0     
+         73      1.0000  
+DVPREL1  174     PSHELL  474     4       1.000-3 0.1000  0.0     
+         74      1.0000  
+DVPREL1  175     PSHELL  475     4       1.000-3 0.1000  0.0     
+         75      1.0000  
+DVPREL1  176     PSHELL  476     4       1.000-3 0.1000  0.0     
+         76      1.0000  
+DVPREL1  177     PSHELL  477     4       1.000-3 0.1000  0.0     
+         77      1.0000  
+DVPREL1  178     PSHELL  478     4       1.000-3 0.1000  0.0     
+         78      1.0000  
+DVPREL1  179     PSHELL  479     4       1.000-3 0.1000  0.0     
+         79      1.0000  
+DVPREL1  180     PSHELL  480     4       1.000-3 0.1000  0.0     
+         80      1.0000  
+DVPREL1  181     PSHELL  481     4       1.000-3 0.1000  0.0     
+         81      1.0000  
+$
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DVPREL2 ID      TYPE    PID     FID     PMIN    PMAX    EQID
+DVPREL2  201     PBAR    103     4       2.500-5 0.1000  7      
+         DESVAR   3       
+DVPREL2  202     PBAR    103     5                       8      
+         DESVAR   3       
+DVPREL2  203     PBAR    103     6                       9      
+         DESVAR   3       
+DVPREL2  204     PBAR    103     7                       10     
+         DESVAR   3       
+DVPREL2  205     PBAR    104     4       5.000-5 0.1000  7      
+         DESVAR   3       
+DVPREL2  206     PBAR    104     5                       8      
+         DESVAR   3       
+DVPREL2  207     PBAR    104     6                       9      
+         DESVAR   3       
+DVPREL2  208     PBAR    104     7                       10     
+         DESVAR   3       
+DVPREL2  209     PBAR    105     4       5.000-5 0.1000  7      
+         DESVAR   3       
+DVPREL2  210     PBAR    105     5                       8      
+         DESVAR   3       
+DVPREL2  211     PBAR    105     6                       9      
+         DESVAR   3       
+DVPREL2  212     PBAR    105     7                       10     
+         DESVAR   3       
+DVPREL2  213     PBAR    106     4       2.500-5 0.1000  11     
+         DESVAR   6       
+DVPREL2  214     PBAR    106     5                       12     
+         DESVAR   6       
+DVPREL2  215     PBAR    106     6                       13     
+         DESVAR   6       
+DVPREL2  216     PBAR    106     7                       14     
+         DESVAR   6       
+DVPREL2  217     PBAR    107     4       5.000-5 0.1000  11     
+         DESVAR   6       
+DVPREL2  218     PBAR    107     5                       12     
+         DESVAR   6       
+DVPREL2  219     PBAR    107     6                       13     
+         DESVAR   6       
+DVPREL2  220     PBAR    107     7                       14     
+         DESVAR   6       
+DVPREL2  221     PBAR    108     4       5.000-5 0.1000  11     
+         DESVAR   6       
+DVPREL2  222     PBAR    108     5                       12     
+         DESVAR   6       
+DVPREL2  223     PBAR    108     6                       13     
+         DESVAR   6       
+DVPREL2  224     PBAR    108     7                       14     
+         DESVAR   6       
+DVPREL2  225     PBAR    109     4       2.500-5 0.1000  15     
+         DESVAR   9       
+DVPREL2  226     PBAR    109     5                       16     
+         DESVAR   9       
+DVPREL2  227     PBAR    109     6                       17     
+         DESVAR   9       
+DVPREL2  228     PBAR    109     7                       18     
+         DESVAR   9       
+DVPREL2  229     PBAR    110     4       5.000-5 0.1000  15     
+         DESVAR   9       
+DVPREL2  230     PBAR    110     5                       16     
+         DESVAR   9       
+DVPREL2  231     PBAR    110     6                       17     
+         DESVAR   9       
+DVPREL2  232     PBAR    110     7                       18     
+         DESVAR   9       
+DVPREL2  233     PBAR    111     4       5.000-5 0.1000  15     
+         DESVAR   9       
+DVPREL2  234     PBAR    111     5                       16     
+         DESVAR   9       
+DVPREL2  235     PBAR    111     6                       17     
+         DESVAR   9       
+DVPREL2  236     PBAR    111     7                       18     
+         DESVAR   9       
+DVPREL2  237     PBAR    112     4       2.500-5 0.1000  19     
+         DESVAR   12      
+DVPREL2  238     PBAR    112     5                       20     
+         DESVAR   12      
+DVPREL2  239     PBAR    112     6                       21     
+         DESVAR   12      
+DVPREL2  240     PBAR    112     7                       22     
+         DESVAR   12      
+DVPREL2  241     PBAR    113     4       5.000-5 0.1000  19     
+         DESVAR   12      
+DVPREL2  242     PBAR    113     5                       20     
+         DESVAR   12      
+DVPREL2  243     PBAR    113     6                       21     
+         DESVAR   12      
+DVPREL2  244     PBAR    113     7                       22     
+         DESVAR   12      
+DVPREL2  245     PBAR    114     4       5.000-5 0.1000  19     
+         DESVAR   12      
+DVPREL2  246     PBAR    114     5                       20     
+         DESVAR   12      
+DVPREL2  247     PBAR    114     6                       21     
+         DESVAR   12      
+DVPREL2  248     PBAR    114     7                       22     
+         DESVAR   12      
+DVPREL2  249     PBAR    115     4       2.500-5 0.1000  23     
+         DESVAR   15      
+DVPREL2  250     PBAR    115     5                       24     
+         DESVAR   15      
+DVPREL2  251     PBAR    115     6                       25     
+         DESVAR   15      
+DVPREL2  252     PBAR    115     7                       26     
+         DESVAR   15      
+DVPREL2  253     PBAR    116     4       5.000-5 0.1000  23     
+         DESVAR   15      
+DVPREL2  254     PBAR    116     5                       24     
+         DESVAR   15      
+DVPREL2  255     PBAR    116     6                       25     
+         DESVAR   15      
+DVPREL2  256     PBAR    116     7                       26     
+         DESVAR   15      
+DVPREL2  257     PBAR    117     4       5.000-5 0.1000  23     
+         DESVAR   15      
+DVPREL2  258     PBAR    117     5                       24     
+         DESVAR   15      
+DVPREL2  259     PBAR    117     6                       25     
+         DESVAR   15      
+DVPREL2  260     PBAR    117     7                       26     
+         DESVAR   15      
+DVPREL2  261     PBAR    118     4       2.500-5 0.1000  27     
+         DESVAR   18      
+DVPREL2  262     PBAR    118     5                       28     
+         DESVAR   18      
+DVPREL2  263     PBAR    118     6                       29     
+         DESVAR   18      
+DVPREL2  264     PBAR    118     7                       30     
+         DESVAR   18      
+DVPREL2  265     PBAR    119     4       5.000-5 0.1000  27     
+         DESVAR   18      
+DVPREL2  266     PBAR    119     5                       28     
+         DESVAR   18      
+DVPREL2  267     PBAR    119     6                       29     
+         DESVAR   18      
+DVPREL2  268     PBAR    119     7                       30     
+         DESVAR   18      
+DVPREL2  269     PBAR    120     4       5.000-5 0.1000  27     
+         DESVAR   18      
+DVPREL2  270     PBAR    120     5                       28     
+         DESVAR   18      
+DVPREL2  271     PBAR    120     6                       29     
+         DESVAR   18      
+DVPREL2  272     PBAR    120     7                       30     
+         DESVAR   18      
+DVPREL2  273     PBAR    121     4       2.500-5 0.1000  31     
+         DESVAR   21      
+DVPREL2  274     PBAR    121     5                       32     
+         DESVAR   21      
+DVPREL2  275     PBAR    121     6                       33     
+         DESVAR   21      
+DVPREL2  276     PBAR    121     7                       34     
+         DESVAR   21      
+DVPREL2  277     PBAR    122     4       5.000-5 0.1000  31     
+         DESVAR   21      
+DVPREL2  278     PBAR    122     5                       32     
+         DESVAR   21      
+DVPREL2  279     PBAR    122     6                       33     
+         DESVAR   21      
+DVPREL2  280     PBAR    122     7                       34     
+         DESVAR   21      
+DVPREL2  281     PBAR    123     4       5.000-5 0.1000  31     
+         DESVAR   21      
+DVPREL2  282     PBAR    123     5                       32     
+         DESVAR   21      
+DVPREL2  283     PBAR    123     6                       33     
+         DESVAR   21      
+DVPREL2  284     PBAR    123     7                       34     
+         DESVAR   21      
+DVPREL2  285     PBAR    124     4       2.500-5 0.1000  35     
+         DESVAR   24      
+DVPREL2  286     PBAR    124     5                       36     
+         DESVAR   24      
+DVPREL2  287     PBAR    124     6                       37     
+         DESVAR   24      
+DVPREL2  288     PBAR    124     7                       38     
+         DESVAR   24      
+DVPREL2  289     PBAR    125     4       5.000-5 0.1000  35     
+         DESVAR   24      
+DVPREL2  290     PBAR    125     5                       36     
+         DESVAR   24      
+DVPREL2  291     PBAR    125     6                       37     
+         DESVAR   24      
+DVPREL2  292     PBAR    125     7                       38     
+         DESVAR   24      
+DVPREL2  293     PBAR    126     4       5.000-5 0.1000  35     
+         DESVAR   24      
+DVPREL2  294     PBAR    126     5                       36     
+         DESVAR   24      
+DVPREL2  295     PBAR    126     6                       37     
+         DESVAR   24      
+DVPREL2  296     PBAR    126     7                       38     
+         DESVAR   24      
+DVPREL2  297     PBAR    127     4       2.500-5 0.1000  39     
+         DESVAR   27      
+DVPREL2  298     PBAR    127     5                       40     
+         DESVAR   27      
+DVPREL2  299     PBAR    127     6                       41     
+         DESVAR   27      
+DVPREL2  300     PBAR    127     7                       42     
+         DESVAR   27      
+DVPREL2  301     PBAR    128     4       5.000-5 0.1000  39     
+         DESVAR   27      
+DVPREL2  302     PBAR    128     5                       40     
+         DESVAR   27      
+DVPREL2  303     PBAR    128     6                       41     
+         DESVAR   27      
+DVPREL2  304     PBAR    128     7                       42     
+         DESVAR   27      
+DVPREL2  305     PBAR    129     4       5.000-5 0.1000  39     
+         DESVAR   27      
+DVPREL2  306     PBAR    129     5                       40     
+         DESVAR   27      
+DVPREL2  307     PBAR    129     6                       41     
+         DESVAR   27      
+DVPREL2  308     PBAR    129     7                       42     
+         DESVAR   27      
+DVPREL2  309     PBAR    130     4       2.500-5 0.1000  43     
+         DESVAR   30      
+DVPREL2  310     PBAR    130     5                       44     
+         DESVAR   30      
+DVPREL2  311     PBAR    130     6                       45     
+         DESVAR   30      
+DVPREL2  312     PBAR    130     7                       46     
+         DESVAR   30      
+DVPREL2  313     PBAR    131     4       5.000-5 0.1000  43     
+         DESVAR   30      
+DVPREL2  314     PBAR    131     5                       44     
+         DESVAR   30      
+DVPREL2  315     PBAR    131     6                       45     
+         DESVAR   30      
+DVPREL2  316     PBAR    131     7                       46     
+         DESVAR   30      
+DVPREL2  317     PBAR    132     4       5.000-5 0.1000  43     
+         DESVAR   30      
+DVPREL2  318     PBAR    132     5                       44     
+         DESVAR   30      
+DVPREL2  319     PBAR    132     6                       45     
+         DESVAR   30      
+DVPREL2  320     PBAR    132     7                       46     
+         DESVAR   30      
+DVPREL2  321     PBAR    133     4       2.500-5 0.1000  47     
+         DESVAR   33      
+DVPREL2  322     PBAR    133     5                       48     
+         DESVAR   33      
+DVPREL2  323     PBAR    133     6                       49     
+         DESVAR   33      
+DVPREL2  324     PBAR    133     7                       50     
+         DESVAR   33      
+DVPREL2  325     PBAR    134     4       5.000-5 0.1000  47     
+         DESVAR   33      
+DVPREL2  326     PBAR    134     5                       48     
+         DESVAR   33      
+DVPREL2  327     PBAR    134     6                       49     
+         DESVAR   33      
+DVPREL2  328     PBAR    134     7                       50     
+         DESVAR   33      
+DVPREL2  329     PBAR    135     4       5.000-5 0.1000  47     
+         DESVAR   33      
+DVPREL2  330     PBAR    135     5                       48     
+         DESVAR   33      
+DVPREL2  331     PBAR    135     6                       49     
+         DESVAR   33      
+DVPREL2  332     PBAR    135     7                       50     
+         DESVAR   33      
+DVPREL2  333     PBAR    136     4       2.500-5 0.1000  51     
+         DESVAR   36      
+DVPREL2  334     PBAR    136     5                       52     
+         DESVAR   36      
+DVPREL2  335     PBAR    136     6                       53     
+         DESVAR   36      
+DVPREL2  336     PBAR    136     7                       54     
+         DESVAR   36      
+DVPREL2  337     PBAR    137     4       5.000-5 0.1000  51     
+         DESVAR   36      
+DVPREL2  338     PBAR    137     5                       52     
+         DESVAR   36      
+DVPREL2  339     PBAR    137     6                       53     
+         DESVAR   36      
+DVPREL2  340     PBAR    137     7                       54     
+         DESVAR   36      
+DVPREL2  341     PBAR    138     4       5.000-5 0.1000  51     
+         DESVAR   36      
+DVPREL2  342     PBAR    138     5                       52     
+         DESVAR   36      
+DVPREL2  343     PBAR    138     6                       53     
+         DESVAR   36      
+DVPREL2  344     PBAR    138     7                       54     
+         DESVAR   36      
+DVPREL2  345     PBAR    139     4       2.500-5 0.1000  55     
+         DESVAR   39      
+DVPREL2  346     PBAR    139     5                       56     
+         DESVAR   39      
+DVPREL2  347     PBAR    139     6                       57     
+         DESVAR   39      
+DVPREL2  348     PBAR    139     7                       58     
+         DESVAR   39      
+DVPREL2  349     PBAR    140     4       5.000-5 0.1000  55     
+         DESVAR   39      
+DVPREL2  350     PBAR    140     5                       56     
+         DESVAR   39      
+DVPREL2  351     PBAR    140     6                       57     
+         DESVAR   39      
+DVPREL2  352     PBAR    140     7                       58     
+         DESVAR   39      
+DVPREL2  353     PBAR    141     4       5.000-5 0.1000  55     
+         DESVAR   39      
+DVPREL2  354     PBAR    141     5                       56     
+         DESVAR   39      
+DVPREL2  355     PBAR    141     6                       57     
+         DESVAR   39      
+DVPREL2  356     PBAR    141     7                       58     
+         DESVAR   39      
+DVPREL2  357     PBAR    142     4       2.500-5 0.1000  59     
+         DESVAR   42      
+DVPREL2  358     PBAR    142     5                       60     
+         DESVAR   42      
+DVPREL2  359     PBAR    142     6                       61     
+         DESVAR   42      
+DVPREL2  360     PBAR    142     7                       62     
+         DESVAR   42      
+DVPREL2  361     PBAR    143     4       5.000-5 0.1000  59     
+         DESVAR   42      
+DVPREL2  362     PBAR    143     5                       60     
+         DESVAR   42      
+DVPREL2  363     PBAR    143     6                       61     
+         DESVAR   42      
+DVPREL2  364     PBAR    143     7                       62     
+         DESVAR   42      
+DVPREL2  365     PBAR    144     4       5.000-5 0.1000  59     
+         DESVAR   42      
+DVPREL2  366     PBAR    144     5                       60     
+         DESVAR   42      
+DVPREL2  367     PBAR    144     6                       61     
+         DESVAR   42      
+DVPREL2  368     PBAR    144     7                       62     
+         DESVAR   42      
+DVPREL2  369     PBAR    145     4       2.500-5 0.1000  63     
+         DESVAR   45      
+DVPREL2  370     PBAR    145     5                       64     
+         DESVAR   45      
+DVPREL2  371     PBAR    145     6                       65     
+         DESVAR   45      
+DVPREL2  372     PBAR    145     7                       66     
+         DESVAR   45      
+DVPREL2  373     PBAR    146     4       5.000-5 0.1000  63     
+         DESVAR   45      
+DVPREL2  374     PBAR    146     5                       64     
+         DESVAR   45      
+DVPREL2  375     PBAR    146     6                       65     
+         DESVAR   45      
+DVPREL2  376     PBAR    146     7                       66     
+         DESVAR   45      
+DVPREL2  377     PBAR    147     4       5.000-5 0.1000  63     
+         DESVAR   45      
+DVPREL2  378     PBAR    147     5                       64     
+         DESVAR   45      
+DVPREL2  379     PBAR    147     6                       65     
+         DESVAR   45      
+DVPREL2  380     PBAR    147     7                       66     
+         DESVAR   45      
+DVPREL2  381     PBAR    148     4       2.500-5 0.1000  67     
+         DESVAR   48      
+DVPREL2  382     PBAR    148     5                       68     
+         DESVAR   48      
+DVPREL2  383     PBAR    148     6                       69     
+         DESVAR   48      
+DVPREL2  384     PBAR    148     7                       70     
+         DESVAR   48      
+DVPREL2  385     PBAR    149     4       5.000-5 0.1000  67     
+         DESVAR   48      
+DVPREL2  386     PBAR    149     5                       68     
+         DESVAR   48      
+DVPREL2  387     PBAR    149     6                       69     
+         DESVAR   48      
+DVPREL2  388     PBAR    149     7                       70     
+         DESVAR   48      
+DVPREL2  389     PBAR    150     4       5.000-5 0.1000  67     
+         DESVAR   48      
+DVPREL2  390     PBAR    150     5                       68     
+         DESVAR   48      
+DVPREL2  391     PBAR    150     6                       69     
+         DESVAR   48      
+DVPREL2  392     PBAR    150     7                       70     
+         DESVAR   48      
+DVPREL2  393     PBAR    151     4       2.500-5 0.1000  71     
+         DESVAR   51      
+DVPREL2  394     PBAR    151     5                       72     
+         DESVAR   51      
+DVPREL2  395     PBAR    151     6                       73     
+         DESVAR   51      
+DVPREL2  396     PBAR    151     7                       74     
+         DESVAR   51      
+DVPREL2  397     PBAR    152     4       5.000-5 0.1000  71     
+         DESVAR   51      
+DVPREL2  398     PBAR    152     5                       72     
+         DESVAR   51      
+DVPREL2  399     PBAR    152     6                       73     
+         DESVAR   51      
+DVPREL2  400     PBAR    152     7                       74     
+         DESVAR   51      
+DVPREL2  401     PBAR    153     4       5.000-5 0.1000  71     
+         DESVAR   51      
+DVPREL2  402     PBAR    153     5                       72     
+         DESVAR   51      
+DVPREL2  403     PBAR    153     6                       73     
+         DESVAR   51      
+DVPREL2  404     PBAR    153     7                       74     
+         DESVAR   51      
+DVPREL2  405     PBAR    154     4       2.500-5 0.1000  75     
+         DESVAR   54      
+DVPREL2  406     PBAR    154     5                       76     
+         DESVAR   54      
+DVPREL2  407     PBAR    154     6                       77     
+         DESVAR   54      
+DVPREL2  408     PBAR    154     7                       78     
+         DESVAR   54      
+DVPREL2  409     PBAR    155     4       5.000-5 0.1000  75     
+         DESVAR   54      
+DVPREL2  410     PBAR    155     5                       76     
+         DESVAR   54      
+DVPREL2  411     PBAR    155     6                       77     
+         DESVAR   54      
+DVPREL2  412     PBAR    155     7                       78     
+         DESVAR   54      
+DVPREL2  413     PBAR    156     4       5.000-5 0.1000  75     
+         DESVAR   54      
+DVPREL2  414     PBAR    156     5                       76     
+         DESVAR   54      
+DVPREL2  415     PBAR    156     6                       77     
+         DESVAR   54      
+DVPREL2  416     PBAR    156     7                       78     
+         DESVAR   54      
+DVPREL2  417     PBAR    157     4       2.500-5 0.1000  79     
+         DESVAR   57      
+DVPREL2  418     PBAR    157     5                       80     
+         DESVAR   57      
+DVPREL2  419     PBAR    157     6                       81     
+         DESVAR   57      
+DVPREL2  420     PBAR    157     7                       82     
+         DESVAR   57      
+DVPREL2  421     PBAR    158     4       5.000-5 0.1000  79     
+         DESVAR   57      
+DVPREL2  422     PBAR    158     5                       80     
+         DESVAR   57      
+DVPREL2  423     PBAR    158     6                       81     
+         DESVAR   57      
+DVPREL2  424     PBAR    158     7                       82     
+         DESVAR   57      
+DVPREL2  425     PBAR    159     4       5.000-5 0.1000  79     
+         DESVAR   57      
+DVPREL2  426     PBAR    159     5                       80     
+         DESVAR   57      
+DVPREL2  427     PBAR    159     6                       81     
+         DESVAR   57      
+DVPREL2  428     PBAR    159     7                       82     
+         DESVAR   57      
+DVPREL2  429     PBAR    160     4       2.500-5 0.1000  83     
+         DESVAR   60      
+DVPREL2  430     PBAR    160     5                       84     
+         DESVAR   60      
+DVPREL2  431     PBAR    160     6                       85     
+         DESVAR   60      
+DVPREL2  432     PBAR    160     7                       86     
+         DESVAR   60      
+DVPREL2  433     PBAR    161     4       5.000-5 0.1000  83     
+         DESVAR   60      
+DVPREL2  434     PBAR    161     5                       84     
+         DESVAR   60      
+DVPREL2  435     PBAR    161     6                       85     
+         DESVAR   60      
+DVPREL2  436     PBAR    161     7                       86     
+         DESVAR   60      
+DVPREL2  437     PBAR    162     4       5.000-5 0.1000  83     
+         DESVAR   60      
+DVPREL2  438     PBAR    162     5                       84     
+         DESVAR   60      
+DVPREL2  439     PBAR    162     6                       85     
+         DESVAR   60      
+DVPREL2  440     PBAR    162     7                       86     
+         DESVAR   60      
+DVPREL2  441     PBAR    163     4       2.500-5 0.1000  87     
+         DESVAR   63      
+DVPREL2  442     PBAR    163     5                       88     
+         DESVAR   63      
+DVPREL2  443     PBAR    163     6                       89     
+         DESVAR   63      
+DVPREL2  444     PBAR    163     7                       90     
+         DESVAR   63      
+DVPREL2  445     PBAR    164     4       5.000-5 0.1000  87     
+         DESVAR   63      
+DVPREL2  446     PBAR    164     5                       88     
+         DESVAR   63      
+DVPREL2  447     PBAR    164     6                       89     
+         DESVAR   63      
+DVPREL2  448     PBAR    164     7                       90     
+         DESVAR   63      
+DVPREL2  449     PBAR    165     4       5.000-5 0.1000  87     
+         DESVAR   63      
+DVPREL2  450     PBAR    165     5                       88     
+         DESVAR   63      
+DVPREL2  451     PBAR    165     6                       89     
+         DESVAR   63      
+DVPREL2  452     PBAR    165     7                       90     
+         DESVAR   63      
+DVPREL2  453     PBAR    166     4       2.500-5 0.1000  91     
+         DESVAR   66      
+DVPREL2  454     PBAR    166     5                       92     
+         DESVAR   66      
+DVPREL2  455     PBAR    166     6                       93     
+         DESVAR   66      
+DVPREL2  456     PBAR    166     7                       94     
+         DESVAR   66      
+DVPREL2  457     PBAR    167     4       5.000-5 0.1000  91     
+         DESVAR   66      
+DVPREL2  458     PBAR    167     5                       92     
+         DESVAR   66      
+DVPREL2  459     PBAR    167     6                       93     
+         DESVAR   66      
+DVPREL2  460     PBAR    167     7                       94     
+         DESVAR   66      
+DVPREL2  461     PBAR    168     4       5.000-5 0.1000  91     
+         DESVAR   66      
+DVPREL2  462     PBAR    168     5                       92     
+         DESVAR   66      
+DVPREL2  463     PBAR    168     6                       93     
+         DESVAR   66      
+DVPREL2  464     PBAR    168     7                       94     
+         DESVAR   66      
+DVPREL2  465     PBAR    169     4       2.500-5 0.1000  95     
+         DESVAR   69      
+DVPREL2  466     PBAR    169     5                       96     
+         DESVAR   69      
+DVPREL2  467     PBAR    169     6                       97     
+         DESVAR   69      
+DVPREL2  468     PBAR    169     7                       98     
+         DESVAR   69      
+DVPREL2  469     PBAR    170     4       5.000-5 0.1000  95     
+         DESVAR   69      
+DVPREL2  470     PBAR    170     5                       96     
+         DESVAR   69      
+DVPREL2  471     PBAR    170     6                       97     
+         DESVAR   69      
+DVPREL2  472     PBAR    170     7                       98     
+         DESVAR   69      
+DVPREL2  473     PBAR    171     4       5.000-5 0.1000  95     
+         DESVAR   69      
+DVPREL2  474     PBAR    171     5                       96     
+         DESVAR   69      
+DVPREL2  475     PBAR    171     6                       97     
+         DESVAR   69      
+DVPREL2  476     PBAR    171     7                       98     
+         DESVAR   69      
+DVPREL2  477     PBAR    172     4       2.500-5 0.1000  99     
+         DESVAR   72      
+DVPREL2  478     PBAR    172     5                       100    
+         DESVAR   72      
+DVPREL2  479     PBAR    172     6                       101    
+         DESVAR   72      
+DVPREL2  480     PBAR    172     7                       102    
+         DESVAR   72      
+DVPREL2  481     PBAR    173     4       5.000-5 0.1000  99     
+         DESVAR   72      
+DVPREL2  482     PBAR    173     5                       100    
+         DESVAR   72      
+DVPREL2  483     PBAR    173     6                       101    
+         DESVAR   72      
+DVPREL2  484     PBAR    173     7                       102    
+         DESVAR   72      
+DVPREL2  485     PBAR    174     4       5.000-5 0.1000  99     
+         DESVAR   72      
+DVPREL2  486     PBAR    174     5                       100    
+         DESVAR   72      
+DVPREL2  487     PBAR    174     6                       101    
+         DESVAR   72      
+DVPREL2  488     PBAR    174     7                       102    
+         DESVAR   72      
+DVPREL2  489     PBAR    175     4       2.500-5 0.1000  103    
+         DESVAR   75      
+DVPREL2  490     PBAR    175     5                       104    
+         DESVAR   75      
+DVPREL2  491     PBAR    175     6                       105    
+         DESVAR   75      
+DVPREL2  492     PBAR    175     7                       106    
+         DESVAR   75      
+DVPREL2  493     PBAR    176     4       5.000-5 0.1000  103    
+         DESVAR   75      
+DVPREL2  494     PBAR    176     5                       104    
+         DESVAR   75      
+DVPREL2  495     PBAR    176     6                       105    
+         DESVAR   75      
+DVPREL2  496     PBAR    176     7                       106    
+         DESVAR   75      
+DVPREL2  497     PBAR    177     4       5.000-5 0.1000  103    
+         DESVAR   75      
+DVPREL2  498     PBAR    177     5                       104    
+         DESVAR   75      
+DVPREL2  499     PBAR    177     6                       105    
+         DESVAR   75      
+DVPREL2  500     PBAR    177     7                       106    
+         DESVAR   75      
+DVPREL2  501     PBAR    178     4       2.500-5 0.1000  107    
+         DESVAR   78      
+DVPREL2  502     PBAR    178     5                       108    
+         DESVAR   78      
+DVPREL2  503     PBAR    178     6                       109    
+         DESVAR   78      
+DVPREL2  504     PBAR    178     7                       110    
+         DESVAR   78      
+DVPREL2  505     PBAR    179     4       5.000-5 0.1000  107    
+         DESVAR   78      
+DVPREL2  506     PBAR    179     5                       108    
+         DESVAR   78      
+DVPREL2  507     PBAR    179     6                       109    
+         DESVAR   78      
+DVPREL2  508     PBAR    179     7                       110    
+         DESVAR   78      
+DVPREL2  509     PBAR    180     4       5.000-5 0.1000  107    
+         DESVAR   78      
+DVPREL2  510     PBAR    180     5                       108    
+         DESVAR   78      
+DVPREL2  511     PBAR    180     6                       109    
+         DESVAR   78      
+DVPREL2  512     PBAR    180     7                       110    
+         DESVAR   78      
+DVPREL2  513     PBAR    181     4       2.500-5 0.1000  111    
+         DESVAR   81      
+DVPREL2  514     PBAR    181     5                       112    
+         DESVAR   81      
+DVPREL2  515     PBAR    181     6                       113    
+         DESVAR   81      
+DVPREL2  516     PBAR    181     7                       114    
+         DESVAR   81      
+DVPREL2  517     PBAR    182     4       5.000-5 0.1000  111    
+         DESVAR   81      
+DVPREL2  518     PBAR    182     5                       112    
+         DESVAR   81      
+DVPREL2  519     PBAR    182     6                       113    
+         DESVAR   81      
+DVPREL2  520     PBAR    182     7                       114    
+         DESVAR   81      
+DVPREL2  521     PBAR    183     4       5.000-5 0.1000  111    
+         DESVAR   81      
+DVPREL2  522     PBAR    183     5                       112    
+         DESVAR   81      
+DVPREL2  523     PBAR    183     6                       113    
+         DESVAR   81      
+DVPREL2  524     PBAR    183     7                       114    
+         DESVAR   81      
+$
+$WEIGHT
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP1  ID      LABEL   RTYPE   PTYPE   REGION  ATTA    ATTB    ATT1
+DRESP1   317     WEIGHT  WEIGHT  
+$
+$DISP
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP1  ID      LABEL   RTYPE   PTYPE   REGION  ATTA    ATTB    ATT1
+DRESP1   301     RTIPROT DISP                    5               12305   
+DRESP1   302     LTIPROT DISP                    5               12197   
+DRESP1   303     RROOROT DISP                    5               12255   
+DRESP1   304     LROOROT DISP                    5               12247   
+DRESP1   307     RTIPLZ  DISP                    3               12305   
+DRESP1   308     RTIPTZ  DISP                    3               12306   
+DRESP1   309     RROOLZ  DISP                    3               12255   
+DRESP1   310     RROOTZ  DISP                    3               12256   
+DRESP1   311     LTIPLZ  DISP                    3               12197   
+DRESP1   312     LTIPTZ  DISP                    3               12198   
+DRESP1   313     LROOLZ  DISP                    3               12247   
+DRESP1   314     LROOTZ  DISP                    3               12248   
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP2  ID      LABEL   EQID    REGION
+DRESP2   305     RWTWIST 115     
+         DRESP1  301     303     
+DRESP2   306     LWTWIST 115     
+         DRESP1  302     304     
+DRESP2   315     RWZDISP 116     
+         DRESP1  307     308     309     310     
+DRESP2   316     LWZDISP 116     
+         DRESP1  311     312     313     314     
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DCONSTR DCID    RID     LALLOW  UALLOW
+DCONSTR  401     305     -0.0419 0.0419  
+DCONSTR  402     306     -0.0419 0.0419  
+DCONSTR  403     315     -1.7999 1.7999  
+DCONSTR  404     316     -1.7999 1.7999  
+DCONSTR  405     305     -0.1047 0.1047  
+DCONSTR  406     306     -0.1047 0.1047  
+DCONSTR  407     315     -2.3399 2.3399  
+DCONSTR  408     316     -2.3399 2.3399  
+$
+$STRESS
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP1  ID      LABEL   RTYPE   PTYPE   REGION  ATTA    ATTB    ATT1
+DRESP1   323     S323    STRESS  PBAR            6               103     
+DRESP1   324     S324    STRESS  PBAR            6               104     
+DRESP1   325     S325    STRESS  PBAR            6               105     
+DRESP1   326     S326    STRESS  PBAR            6               106     
+DRESP1   327     S327    STRESS  PBAR            6               107     
+DRESP1   328     S328    STRESS  PBAR            6               108     
+DRESP1   329     S329    STRESS  PBAR            6               109     
+DRESP1   330     S330    STRESS  PBAR            6               110     
+DRESP1   331     S331    STRESS  PBAR            6               111     
+DRESP1   332     S332    STRESS  PBAR            6               112     
+DRESP1   333     S333    STRESS  PBAR            6               113     
+DRESP1   334     S334    STRESS  PBAR            6               114     
+DRESP1   335     S335    STRESS  PBAR            6               115     
+DRESP1   336     S336    STRESS  PBAR            6               116     
+DRESP1   337     S337    STRESS  PBAR            6               117     
+DRESP1   338     S338    STRESS  PBAR            6               118     
+DRESP1   339     S339    STRESS  PBAR            6               119     
+DRESP1   340     S340    STRESS  PBAR            6               120     
+DRESP1   341     S341    STRESS  PBAR            6               121     
+DRESP1   342     S342    STRESS  PBAR            6               122     
+DRESP1   343     S343    STRESS  PBAR            6               123     
+DRESP1   344     S344    STRESS  PBAR            6               124     
+DRESP1   345     S345    STRESS  PBAR            6               125     
+DRESP1   346     S346    STRESS  PBAR            6               126     
+DRESP1   347     S347    STRESS  PBAR            6               127     
+DRESP1   348     S348    STRESS  PBAR            6               128     
+DRESP1   349     S349    STRESS  PBAR            6               129     
+DRESP1   350     S350    STRESS  PBAR            6               130     
+DRESP1   351     S351    STRESS  PBAR            6               131     
+DRESP1   352     S352    STRESS  PBAR            6               132     
+DRESP1   353     S353    STRESS  PBAR            6               133     
+DRESP1   354     S354    STRESS  PBAR            6               134     
+DRESP1   355     S355    STRESS  PBAR            6               135     
+DRESP1   356     S356    STRESS  PBAR            6               136     
+DRESP1   357     S357    STRESS  PBAR            6               137     
+DRESP1   358     S358    STRESS  PBAR            6               138     
+DRESP1   359     S359    STRESS  PBAR            6               139     
+DRESP1   360     S360    STRESS  PBAR            6               140     
+DRESP1   361     S361    STRESS  PBAR            6               141     
+DRESP1   362     S362    STRESS  PBAR            6               142     
+DRESP1   363     S363    STRESS  PBAR            6               143     
+DRESP1   364     S364    STRESS  PBAR            6               144     
+DRESP1   365     S365    STRESS  PBAR            6               145     
+DRESP1   366     S366    STRESS  PBAR            6               146     
+DRESP1   367     S367    STRESS  PBAR            6               147     
+DRESP1   368     S368    STRESS  PBAR            6               148     
+DRESP1   369     S369    STRESS  PBAR            6               149     
+DRESP1   370     S370    STRESS  PBAR            6               150     
+DRESP1   371     S371    STRESS  PBAR            6               151     
+DRESP1   372     S372    STRESS  PBAR            6               152     
+DRESP1   373     S373    STRESS  PBAR            6               153     
+DRESP1   374     S374    STRESS  PBAR            6               154     
+DRESP1   375     S375    STRESS  PBAR            6               155     
+DRESP1   376     S376    STRESS  PBAR            6               156     
+DRESP1   377     S377    STRESS  PBAR            6               157     
+DRESP1   378     S378    STRESS  PBAR            6               158     
+DRESP1   379     S379    STRESS  PBAR            6               159     
+DRESP1   380     S380    STRESS  PBAR            6               160     
+DRESP1   381     S381    STRESS  PBAR            6               161     
+DRESP1   382     S382    STRESS  PBAR            6               162     
+DRESP1   383     S383    STRESS  PBAR            6               163     
+DRESP1   384     S384    STRESS  PBAR            6               164     
+DRESP1   385     S385    STRESS  PBAR            6               165     
+DRESP1   386     S386    STRESS  PBAR            6               166     
+DRESP1   387     S387    STRESS  PBAR            6               167     
+DRESP1   388     S388    STRESS  PBAR            6               168     
+DRESP1   389     S389    STRESS  PBAR            6               169     
+DRESP1   390     S390    STRESS  PBAR            6               170     
+DRESP1   391     S391    STRESS  PBAR            6               171     
+DRESP1   392     S392    STRESS  PBAR            6               172     
+DRESP1   393     S393    STRESS  PBAR            6               173     
+DRESP1   394     S394    STRESS  PBAR            6               174     
+DRESP1   395     S395    STRESS  PBAR            6               175     
+DRESP1   396     S396    STRESS  PBAR            6               176     
+DRESP1   397     S397    STRESS  PBAR            6               177     
+DRESP1   398     S398    STRESS  PBAR            6               178     
+DRESP1   399     S399    STRESS  PBAR            6               179     
+DRESP1   400     S400    STRESS  PBAR            6               180     
+DRESP1   401     S401    STRESS  PBAR            6               181     
+DRESP1   402     S402    STRESS  PBAR            6               182     
+DRESP1   403     S403    STRESS  PBAR            6               183     
+DRESP1   404     S404    STRESS  PSHELL          9               401     
+DRESP1   405     S405    STRESS  PSHELL          9               402     
+DRESP1   406     S406    STRESS  PSHELL          9               403     
+DRESP1   407     S407    STRESS  PSHELL          9               404     
+DRESP1   408     S408    STRESS  PSHELL          9               405     
+DRESP1   409     S409    STRESS  PSHELL          9               406     
+DRESP1   410     S410    STRESS  PSHELL          9               407     
+DRESP1   411     S411    STRESS  PSHELL          9               408     
+DRESP1   412     S412    STRESS  PSHELL          9               409     
+DRESP1   413     S413    STRESS  PSHELL          9               410     
+DRESP1   414     S414    STRESS  PSHELL          9               411     
+DRESP1   415     S415    STRESS  PSHELL          9               412     
+DRESP1   416     S416    STRESS  PSHELL          9               413     
+DRESP1   417     S417    STRESS  PSHELL          9               414     
+DRESP1   418     S418    STRESS  PSHELL          9               415     
+DRESP1   419     S419    STRESS  PSHELL          9               416     
+DRESP1   420     S420    STRESS  PSHELL          9               417     
+DRESP1   421     S421    STRESS  PSHELL          9               418     
+DRESP1   422     S422    STRESS  PSHELL          9               419     
+DRESP1   423     S423    STRESS  PSHELL          9               420     
+DRESP1   424     S424    STRESS  PSHELL          9               421     
+DRESP1   425     S425    STRESS  PSHELL          9               422     
+DRESP1   426     S426    STRESS  PSHELL          9               423     
+DRESP1   427     S427    STRESS  PSHELL          9               424     
+DRESP1   428     S428    STRESS  PSHELL          9               425     
+DRESP1   429     S429    STRESS  PSHELL          9               426     
+DRESP1   430     S430    STRESS  PSHELL          9               427     
+DRESP1   431     S431    STRESS  PSHELL          9               428     
+DRESP1   432     S432    STRESS  PSHELL          9               429     
+DRESP1   433     S433    STRESS  PSHELL          9               430     
+DRESP1   434     S434    STRESS  PSHELL          9               431     
+DRESP1   435     S435    STRESS  PSHELL          9               432     
+DRESP1   436     S436    STRESS  PSHELL          9               433     
+DRESP1   437     S437    STRESS  PSHELL          9               434     
+DRESP1   438     S438    STRESS  PSHELL          9               435     
+DRESP1   439     S439    STRESS  PSHELL          9               436     
+DRESP1   440     S440    STRESS  PSHELL          9               437     
+DRESP1   441     S441    STRESS  PSHELL          9               438     
+DRESP1   442     S442    STRESS  PSHELL          9               439     
+DRESP1   443     S443    STRESS  PSHELL          9               440     
+DRESP1   444     S444    STRESS  PSHELL          9               441     
+DRESP1   445     S445    STRESS  PSHELL          9               442     
+DRESP1   446     S446    STRESS  PSHELL          9               443     
+DRESP1   447     S447    STRESS  PSHELL          9               444     
+DRESP1   448     S448    STRESS  PSHELL          9               445     
+DRESP1   449     S449    STRESS  PSHELL          9               446     
+DRESP1   450     S450    STRESS  PSHELL          9               447     
+DRESP1   451     S451    STRESS  PSHELL          9               448     
+DRESP1   452     S452    STRESS  PSHELL          9               449     
+DRESP1   453     S453    STRESS  PSHELL          9               450     
+DRESP1   454     S454    STRESS  PSHELL          9               451     
+DRESP1   455     S455    STRESS  PSHELL          9               452     
+DRESP1   456     S456    STRESS  PSHELL          9               453     
+DRESP1   457     S457    STRESS  PSHELL          9               454     
+DRESP1   458     S458    STRESS  PSHELL          9               455     
+DRESP1   459     S459    STRESS  PSHELL          9               456     
+DRESP1   460     S460    STRESS  PSHELL          9               457     
+DRESP1   461     S461    STRESS  PSHELL          9               458     
+DRESP1   462     S462    STRESS  PSHELL          9               459     
+DRESP1   463     S463    STRESS  PSHELL          9               460     
+DRESP1   464     S464    STRESS  PSHELL          9               461     
+DRESP1   465     S465    STRESS  PSHELL          9               462     
+DRESP1   466     S466    STRESS  PSHELL          9               463     
+DRESP1   467     S467    STRESS  PSHELL          9               464     
+DRESP1   468     S468    STRESS  PSHELL          9               465     
+DRESP1   469     S469    STRESS  PSHELL          9               466     
+DRESP1   470     S470    STRESS  PSHELL          9               467     
+DRESP1   471     S471    STRESS  PSHELL          9               468     
+DRESP1   472     S472    STRESS  PSHELL          9               469     
+DRESP1   473     S473    STRESS  PSHELL          9               470     
+DRESP1   474     S474    STRESS  PSHELL          9               471     
+DRESP1   475     S475    STRESS  PSHELL          9               472     
+DRESP1   476     S476    STRESS  PSHELL          9               473     
+DRESP1   477     S477    STRESS  PSHELL          9               474     
+DRESP1   478     S478    STRESS  PSHELL          9               475     
+DRESP1   479     S479    STRESS  PSHELL          9               476     
+DRESP1   480     S480    STRESS  PSHELL          9               477     
+DRESP1   481     S481    STRESS  PSHELL          9               478     
+DRESP1   482     S482    STRESS  PSHELL          9               479     
+DRESP1   483     S483    STRESS  PSHELL          9               480     
+DRESP1   484     S484    STRESS  PSHELL          9               481     
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DCONSTR DCID    RID     LALLOW  UALLOW
+DCONSTR  411     323     -2.80+8 2.80+08 
+DCONSTR  412     324     -2.80+8 2.80+08 
+DCONSTR  413     325     -2.80+8 2.80+08 
+DCONSTR  414     326     -2.80+8 2.80+08 
+DCONSTR  415     327     -2.80+8 2.80+08 
+DCONSTR  416     328     -2.80+8 2.80+08 
+DCONSTR  417     329     -2.80+8 2.80+08 
+DCONSTR  418     330     -2.80+8 2.80+08 
+DCONSTR  419     331     -2.80+8 2.80+08 
+DCONSTR  420     332     -2.80+8 2.80+08 
+DCONSTR  421     333     -2.80+8 2.80+08 
+DCONSTR  422     334     -2.80+8 2.80+08 
+DCONSTR  423     335     -2.80+8 2.80+08 
+DCONSTR  424     336     -2.80+8 2.80+08 
+DCONSTR  425     337     -2.80+8 2.80+08 
+DCONSTR  426     338     -2.80+8 2.80+08 
+DCONSTR  427     339     -2.80+8 2.80+08 
+DCONSTR  428     340     -2.80+8 2.80+08 
+DCONSTR  429     341     -2.80+8 2.80+08 
+DCONSTR  430     342     -2.80+8 2.80+08 
+DCONSTR  431     343     -2.80+8 2.80+08 
+DCONSTR  432     344     -2.80+8 2.80+08 
+DCONSTR  433     345     -2.80+8 2.80+08 
+DCONSTR  434     346     -2.80+8 2.80+08 
+DCONSTR  435     347     -2.80+8 2.80+08 
+DCONSTR  436     348     -2.80+8 2.80+08 
+DCONSTR  437     349     -2.80+8 2.80+08 
+DCONSTR  438     350     -2.80+8 2.80+08 
+DCONSTR  439     351     -2.80+8 2.80+08 
+DCONSTR  440     352     -2.80+8 2.80+08 
+DCONSTR  441     353     -2.80+8 2.80+08 
+DCONSTR  442     354     -2.80+8 2.80+08 
+DCONSTR  443     355     -2.80+8 2.80+08 
+DCONSTR  444     356     -2.80+8 2.80+08 
+DCONSTR  445     357     -2.80+8 2.80+08 
+DCONSTR  446     358     -2.80+8 2.80+08 
+DCONSTR  447     359     -2.80+8 2.80+08 
+DCONSTR  448     360     -2.80+8 2.80+08 
+DCONSTR  449     361     -2.80+8 2.80+08 
+DCONSTR  450     362     -2.80+8 2.80+08 
+DCONSTR  451     363     -2.80+8 2.80+08 
+DCONSTR  452     364     -2.80+8 2.80+08 
+DCONSTR  453     365     -2.80+8 2.80+08 
+DCONSTR  454     366     -2.80+8 2.80+08 
+DCONSTR  455     367     -2.80+8 2.80+08 
+DCONSTR  456     368     -2.80+8 2.80+08 
+DCONSTR  457     369     -2.80+8 2.80+08 
+DCONSTR  458     370     -2.80+8 2.80+08 
+DCONSTR  459     371     -2.80+8 2.80+08 
+DCONSTR  460     372     -2.80+8 2.80+08 
+DCONSTR  461     373     -2.80+8 2.80+08 
+DCONSTR  462     374     -2.80+8 2.80+08 
+DCONSTR  463     375     -2.80+8 2.80+08 
+DCONSTR  464     376     -2.80+8 2.80+08 
+DCONSTR  465     377     -2.80+8 2.80+08 
+DCONSTR  466     378     -2.80+8 2.80+08 
+DCONSTR  467     379     -2.80+8 2.80+08 
+DCONSTR  468     380     -2.80+8 2.80+08 
+DCONSTR  469     381     -2.80+8 2.80+08 
+DCONSTR  470     382     -2.80+8 2.80+08 
+DCONSTR  471     383     -2.80+8 2.80+08 
+DCONSTR  472     384     -2.80+8 2.80+08 
+DCONSTR  473     385     -2.80+8 2.80+08 
+DCONSTR  474     386     -2.80+8 2.80+08 
+DCONSTR  475     387     -2.80+8 2.80+08 
+DCONSTR  476     388     -2.80+8 2.80+08 
+DCONSTR  477     389     -2.80+8 2.80+08 
+DCONSTR  478     390     -2.80+8 2.80+08 
+DCONSTR  479     391     -2.80+8 2.80+08 
+DCONSTR  480     392     -2.80+8 2.80+08 
+DCONSTR  481     393     -2.80+8 2.80+08 
+DCONSTR  482     394     -2.80+8 2.80+08 
+DCONSTR  483     395     -2.80+8 2.80+08 
+DCONSTR  484     396     -2.80+8 2.80+08 
+DCONSTR  485     397     -2.80+8 2.80+08 
+DCONSTR  486     398     -2.80+8 2.80+08 
+DCONSTR  487     399     -2.80+8 2.80+08 
+DCONSTR  488     400     -2.80+8 2.80+08 
+DCONSTR  489     401     -2.80+8 2.80+08 
+DCONSTR  490     402     -2.80+8 2.80+08 
+DCONSTR  491     403     -2.80+8 2.80+08 
+DCONSTR  492     404     -2.80+8 2.80+08 
+DCONSTR  493     405     -2.80+8 2.80+08 
+DCONSTR  494     406     -2.80+8 2.80+08 
+DCONSTR  495     407     -2.80+8 2.80+08 
+DCONSTR  496     408     -2.80+8 2.80+08 
+DCONSTR  497     409     -2.80+8 2.80+08 
+DCONSTR  498     410     -2.80+8 2.80+08 
+DCONSTR  499     411     -2.80+8 2.80+08 
+DCONSTR  500     412     -2.80+8 2.80+08 
+DCONSTR  501     413     -2.80+8 2.80+08 
+DCONSTR  502     414     -2.80+8 2.80+08 
+DCONSTR  503     415     -2.80+8 2.80+08 
+DCONSTR  504     416     -2.80+8 2.80+08 
+DCONSTR  505     417     -2.80+8 2.80+08 
+DCONSTR  506     418     -2.80+8 2.80+08 
+DCONSTR  507     419     -2.80+8 2.80+08 
+DCONSTR  508     420     -2.80+8 2.80+08 
+DCONSTR  509     421     -2.80+8 2.80+08 
+DCONSTR  510     422     -2.80+8 2.80+08 
+DCONSTR  511     423     -2.80+8 2.80+08 
+DCONSTR  512     424     -2.80+8 2.80+08 
+DCONSTR  513     425     -2.80+8 2.80+08 
+DCONSTR  514     426     -2.80+8 2.80+08 
+DCONSTR  515     427     -2.80+8 2.80+08 
+DCONSTR  516     428     -2.80+8 2.80+08 
+DCONSTR  517     429     -2.80+8 2.80+08 
+DCONSTR  518     430     -2.80+8 2.80+08 
+DCONSTR  519     431     -2.80+8 2.80+08 
+DCONSTR  520     432     -2.80+8 2.80+08 
+DCONSTR  521     433     -2.80+8 2.80+08 
+DCONSTR  522     434     -2.80+8 2.80+08 
+DCONSTR  523     435     -2.80+8 2.80+08 
+DCONSTR  524     436     -2.80+8 2.80+08 
+DCONSTR  525     437     -2.80+8 2.80+08 
+DCONSTR  526     438     -2.80+8 2.80+08 
+DCONSTR  527     439     -2.80+8 2.80+08 
+DCONSTR  528     440     -2.80+8 2.80+08 
+DCONSTR  529     441     -2.80+8 2.80+08 
+DCONSTR  530     442     -2.80+8 2.80+08 
+DCONSTR  531     443     -2.80+8 2.80+08 
+DCONSTR  532     444     -2.80+8 2.80+08 
+DCONSTR  533     445     -2.80+8 2.80+08 
+DCONSTR  534     446     -2.80+8 2.80+08 
+DCONSTR  535     447     -2.80+8 2.80+08 
+DCONSTR  536     448     -2.80+8 2.80+08 
+DCONSTR  537     449     -2.80+8 2.80+08 
+DCONSTR  538     450     -2.80+8 2.80+08 
+DCONSTR  539     451     -2.80+8 2.80+08 
+DCONSTR  540     452     -2.80+8 2.80+08 
+DCONSTR  541     453     -2.80+8 2.80+08 
+DCONSTR  542     454     -2.80+8 2.80+08 
+DCONSTR  543     455     -2.80+8 2.80+08 
+DCONSTR  544     456     -2.80+8 2.80+08 
+DCONSTR  545     457     -2.80+8 2.80+08 
+DCONSTR  546     458     -2.80+8 2.80+08 
+DCONSTR  547     459     -2.80+8 2.80+08 
+DCONSTR  548     460     -2.80+8 2.80+08 
+DCONSTR  549     461     -2.80+8 2.80+08 
+DCONSTR  550     462     -2.80+8 2.80+08 
+DCONSTR  551     463     -2.80+8 2.80+08 
+DCONSTR  552     464     -2.80+8 2.80+08 
+DCONSTR  553     465     -2.80+8 2.80+08 
+DCONSTR  554     466     -2.80+8 2.80+08 
+DCONSTR  555     467     -2.80+8 2.80+08 
+DCONSTR  556     468     -2.80+8 2.80+08 
+DCONSTR  557     469     -2.80+8 2.80+08 
+DCONSTR  558     470     -2.80+8 2.80+08 
+DCONSTR  559     471     -2.80+8 2.80+08 
+DCONSTR  560     472     -2.80+8 2.80+08 
+DCONSTR  561     473     -2.80+8 2.80+08 
+DCONSTR  562     474     -2.80+8 2.80+08 
+DCONSTR  563     475     -2.80+8 2.80+08 
+DCONSTR  564     476     -2.80+8 2.80+08 
+DCONSTR  565     477     -2.80+8 2.80+08 
+DCONSTR  566     478     -2.80+8 2.80+08 
+DCONSTR  567     479     -2.80+8 2.80+08 
+DCONSTR  568     480     -2.80+8 2.80+08 
+DCONSTR  569     481     -2.80+8 2.80+08 
+DCONSTR  570     482     -2.80+8 2.80+08 
+DCONSTR  571     483     -2.80+8 2.80+08 
+DCONSTR  572     484     -2.80+8 2.80+08 
+$
+$STABDER
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP1  ID      LABEL   RTYPE   PTYPE   REGION  ATTA    ATTB    ATT1
+DRESP1   318     CLDELTA STABDER                 1       0       4       
+DRESP1   319     CLP     STABDER                 6       0       4       
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP2  ID      LABEL   EQID    REGION
+DRESP2   320     ROLLEFF 118     
+         DRESP1  318     
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DCONSTR DCID    RID     LALLOW  UALLOW
+DCONSTR  409     320     0.2000          
+$
+$FLUTTER
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP1  ID      LABEL   RTYPE   PTYPE   REGION  ATTA    ATTB    ATT1
+DRESP1   321     FLUTTER FLUTTER                                 6       
+         1       2       4       
+$ FLUTTER_mode_SET
+SET1     6       1       2       3       4       5       6       7       
+         8       9       10      
+$ Velocity
+FLFACT   4       200.00  220.00  240.00  
+$
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP2  ID      LABEL   EQID    REGION
+DRESP2   322     GDAMP   119     
+         DRESP1  321     
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DCONSTR DCID    RID     LALLOW  UALLOW
+DCONSTR  410     322     -1.00+9 -0.3000 
+$
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DRESP2  ID      LABEL   EQID    REGION
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DCONSTR DCID    RID     LALLOW  UALLOW
+$
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$DCONADD DCID    DCi
+$ 1g
+DCONADD  1       401     402     403     404     
+$ 2.5g
+DCONADD  2       405     406     407     408     411     412     413     
+         414     415     416     417     418     419     420     421     
+         422     423     424     425     426     427     428     429     
+         430     431     432     433     434     435     436     437     
+         438     439     440     441     442     443     444     445     
+         446     447     448     449     450     451     452     453     
+         454     455     456     457     458     459     460     461     
+         462     463     464     465     466     467     468     469     
+         470     471     472     473     474     475     476     477     
+         478     479     480     481     482     483     484     485     
+         486     487     488     489     490     491     492     493     
+         494     495     496     497     498     499     500     501     
+         502     503     504     505     506     507     508     509     
+         510     511     512     513     514     515     516     517     
+         518     519     520     521     522     523     524     525     
+         526     527     528     529     530     531     532     533     
+         534     535     536     537     538     539     540     541     
+         542     543     544     545     546     547     548     549     
+         550     551     552     553     554     555     556     557     
+         558     559     560     561     562     563     564     565     
+         566     567     568     569     570     571     572     
+$ roll
+DCONADD  3       409     
+$ flutter
+DCONADD  4       410     
+$
+$
+DOPTPRM  DESMAX  40      P1      1       P2      15      
+$

@@ -1,0 +1,22 @@
+SOL 145
+CEND
+TITLE = flutter
+ECHO = NONE
+SUBCASE 4
+   LABEL = flutter
+   ANALYSIS = FLUTTER
+   DISP = NONE
+   STRESS = NONE
+   FORCE = NONE
+   AEROF = NONE
+   APRES = NONE
+   METHOD = 3
+   FMETHOD = 3
+   SPC = 3
+BEGIN BULK
+INCLUDE 'structure.dat'
+INCLUDE 'constrain.dat'
+INCLUDE 'aero.dat'
+INCLUDE 'trim.dat'
+INCLUDE 'flutter.dat'
+ENDDATA

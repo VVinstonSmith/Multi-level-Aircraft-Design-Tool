@@ -1,0 +1,19 @@
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$ A whole-span model is defined
+AEROS    0       0       3.9698  35.998  120.70  
+$ Rigid Body Motion Trim Variables:
+AESTAT   3       ANGLEA 
+AESTAT   4       URDD3  
+AESTAT   5       URDD5  
+AESTAT   6       ROLL   
+AESTAT   7       YAW    
+$..1...||..2...||..3...||..4...||..5...||..6...||..7...||..8...||..9...||..10..|
+$ Trim Parameters for Subcase:1
+TRIM     1       0.78    1.02+04 URDD3   1.0000  URDD5   0.0     
+         ROLL    0.0     YAW     0.0     AIL     0.0     
+$ Trim Parameters for Subcase:2
+TRIM     2       0.64    2.91+04 URDD3   2.5000  URDD5   0.0     
+         ROLL    0.0     YAW     0.0     AIL     0.0     
+$ Trim Parameters for Subcase:3
+TRIM     3       0.64    2.91+04 ANGLEA  0.0     URDD3   0.0     
+         URDD5   0.0     YAW     0.0     AIL     0.1745  ELE     0.0     

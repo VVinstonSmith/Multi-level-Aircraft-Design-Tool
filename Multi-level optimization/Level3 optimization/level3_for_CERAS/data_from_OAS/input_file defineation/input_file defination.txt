@@ -1,0 +1,54 @@
+input_file defineation:
+
+flight condition:
+1.RHO_air1
+2.RHO_air2
+3.Ma1
+4.Ma2
+5.speed_of_sound1
+6.speed_of_sound2
+8.alpha_2.5g(deg)
+
+wing geometry:
+1.C_root_wing
+2.taper_inner_wing
+3.taper_outer_wing
+4.span_eta
+5.sweep_wing_inner
+6.sweep_wing_outer
+7.body_width_wing
+8.X25_root_wing
+9.height_wing
+10.dihedral_wing
+11.n_str_wing
+12.Cf_root
+13.Cr_root
+14.Cf_kink
+15.Cr_kink
+16.Cf_tip
+17.Cr_tip
+
+htail geometry:
+1.C_root_htail
+2.taper_htail
+3.half_span_htail
+4.sweep_htail
+5.body_width_htail
+6.X25_root_htail
+7.height_htail
+8.dihedral_htail
+9.n_str_htail
+10.Cf_htail_root
+11.Cr_htail_root
+12.Cf_htail_tip
+13.Cs_htail_tip
+
+weights:
+1.mass_body
+2.cg_body
+3.fuelburn
+4.Wf_reserve
+5.cg_aircraft
+
+
+

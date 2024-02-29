@@ -1,0 +1,12 @@
+﻿首先需要安装open-MDAO优化器 和 FAST-OAD飞机总体设计开源框架
+
+建模参数基于CeRAS01_baseline.xml
+建模环节由oad_process.yml定义
+
+不引入优化的总体设计：运行example_MDA.py
+引入优化的总体设计：运行example_MDO.py
+
+概念阶段的设计结果输出于output_from_fastoad.txt
+
+算例level1-origin对应于论文的第二章
+算例level1-CeRAS对应于论文的第五章
